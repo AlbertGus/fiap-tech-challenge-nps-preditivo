@@ -5,7 +5,7 @@
 [![Status](https://img.shields.io/badge/Status-Concluído-success)]()
 
 ## 🎥 Apresentação do Projeto (Vídeo)
-**[Clique aqui para assistir ao vídeo de apresentação do projeto no YouTube](https://youtu.be/bQ7kNFKWmS0)**
+**[Clique aqui para assistir ao vídeo de apresentação do projeto no YouTube](https://youtu.be/bQ7kNFKWmS0) **
 
 ## 📌 Objetivo do Projeto
 Este projeto foi desenvolvido como requisito de avaliação da Fase 1 da pós-graduação. O objetivo central é resolver a dor de negócio de um e-commerce que sofre com a reatividade na medição da experiência do consumidor. Atualmente, o Net Promoter Score (NPS) é mensurado apenas no encerramento da jornada, limitando a capacidade da empresa de antecipar problemas. 
